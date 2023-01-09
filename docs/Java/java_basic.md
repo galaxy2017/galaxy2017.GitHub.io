@@ -1604,7 +1604,9 @@ package array;
 public class ArratDemo05 {
     public static void main(String[] args) {
         
-        int[][] array = {{1,2},{2,3},{3,4},{4,5}};
+        int[][] array = {
+            {1,2},{2,3},{3,4},{4,5}
+            };
 
         /**
          * array[0][0] = 1    array[0][1] = 2   {1,2}
