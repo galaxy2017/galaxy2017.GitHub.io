@@ -1,5 +1,6 @@
 ---
-sidebar_position: 99992
+title: 八大常用类
+sidebar_position: 2
 ---
 
 # 八大常用类

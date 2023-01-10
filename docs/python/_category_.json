@@ -1,8 +1,8 @@
 {
-  "label": "Java",
+  "label": "python",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "java基础"
+    "description": "python"
   }
 }
