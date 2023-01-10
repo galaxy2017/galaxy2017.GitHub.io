@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '胖螺',
   tagline: '胖螺的小屋',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://galaxy2017.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
