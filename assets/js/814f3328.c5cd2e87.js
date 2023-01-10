@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_luomoe_com=self.webpackChunkdocs_luomoe_com||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u53cb\u60c5\u94fe\u63a5","permalink":"/blog/links"},{"title":"\u6b22\u8fce","permalink":"/blog/welcome"}]}')}}]);

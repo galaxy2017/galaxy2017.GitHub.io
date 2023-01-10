@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://galaxy2017.github.io/blog</id>
+    <title>胖螺 Blog</title>
+    <updated>2023-01-09T13:37:15.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://galaxy2017.github.io/blog"/>
+    <subtitle>胖螺 Blog</subtitle>
+    <icon>https://galaxy2017.github.io/https://img.cdn.luomoe.com/2020/03/cropped-logo2-1.png</icon>
+    <entry>
+        <title type="html"><![CDATA[友情链接]]></title>
+        <id>/links</id>
+        <link href="https://galaxy2017.github.io/blog/links"/>
+        <updated>2023-01-09T13:37:15.000Z</updated>
+        <summary type="html"><![CDATA[（交换友链请点击👉img ）]]></summary>
+        <content type="html"><![CDATA[<div class="theme-admonition theme-admonition-info alert alert--info admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>信息</div><div class="admonitionContent_S0QG"><p>（交换友链请点击👉<a href="mailto:i@lyyousa.com" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png" alt="img" class="img_ev3q"></a> ）</p><p>本站的名称：胖螺</p><p>说明：无限进步</p><p>本站站点地址： <a href="https://blog.luomoe.com/" target="_blank" rel="noopener noreferrer">https://blog.luomoe.com/</a></p><p>本人头像： <a href="https://img.cdn.luomoe.com/2020/03/cropped-logo2-1.png" target="_blank" rel="noopener noreferrer">https://img.cdn.luomoe.com/2020/03/cropped-logo2-1.png</a></p><p>要求：站子有原创文章，无版权争议，有https信仰加持，在您那里也能看到胖螺的身影，不接受单向友链。交换直接评论留言即可~</p><p>后续：博主会不定期检查友链的情况，如果出现了网站无法访问、上述要求没有满足、遇盗版、破解、网页植入挖矿脚本、极低质量内容、单方面移除本站链接的。胖螺也会单方面移除链接哦，见谅~</p></div></div>]]></content>
+        <author>
+            <name>Luminous' Home</name>
+            <uri>https://luotianyi.vc/</uri>
+        </author>
+        <author>
+            <name>洛水.山岭居室</name>
+            <uri>https://luoshuijs.vip/</uri>
+        </author>
+        <author>
+            <name>CZM有点冷</name>
+            <uri>https://czm.cool/</uri>
+        </author>
+        <author>
+            <name>兀云资源网</name>
+            <uri>https://www.itliujia.cn/</uri>
+        </author>
+        <author>
+            <name>抵到烂</name>
+            <uri>https://www.didaolan.cn/</uri>
+        </author>
+        <author>
+            <name>Mlikiowa Home Village</name>
+            <uri>https://nanaeo.cn/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎]]></title>
+        <id>welcome</id>
+        <link href="https://galaxy2017.github.io/blog/welcome"/>
+        <updated>2023-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[再一次优化和整理自己的博客，把一些博客文章整理为笔记。]]></summary>
+        <content type="html"><![CDATA[<p><strong>再一次优化和整理自己的博客，把一些博客文章整理为笔记。</strong></p><p>疫情真的太不容易啦，开始开源节流，停用各种自租云服务器，拥抱各种Page。</p><p>——2023年1月9日</p><p>太卷了太卷了，转全栈。
+今夜天星璀璨，月相壮丽，想必是个好日子。嘶，待我一算...嗯~我知道我知道，是你的生辰!哎呀，真是个好日子。</p><p>——2022年7月15日。胡桃生日（钓鱼不成，自己跳到水里抓鱼，真的太可爱了，）</p><p>再次归来，对网站内容进行了重新优化，减去过多且无用的分类。删去其他花里胡哨的东西，在一定程度上降低二次元浓度。</p><p>将只专注于前端相关，记录自己踩过的坑，应该也会有其他的东西（非计算机的），但是不会太多。方便未来的自己的在前端踩坑时候再找回相对应的步骤。目前只要求自己能看懂。如果有小伙伴想了解相关的内容但是又看不懂，请再对应的内容评论，我看到后会第一时间修改和完善有关的描述。</p><p>——2022年1月31日，农历牛年除夕夜。</p>]]></content>
+        <author>
+            <name>Pangluo</name>
+            <uri>https://luomoe.com</uri>
+        </author>
+    </entry>
+</feed>
