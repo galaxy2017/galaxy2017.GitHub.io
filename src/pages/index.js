@@ -2,7 +2,7 @@
  * @Author: onmyoji onmyoji@qq.com
  * @Date: 2023-01-05 23:00:12
  * @LastEditors: onmyoji onmyoji@qq.com
- * @LastEditTime: 2023-03-26 10:12:34
+ * @LastEditTime: 2023-03-26 14:49:47
  * @FilePath: \docsLuomoeCom\src\pages\index.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -38,8 +38,10 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      KeyWords="胖螺,Java,JavaScript,python,web前端,golang"
+      description="胖螺的博客 <head />"
+      >
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
