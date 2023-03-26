@@ -1,0 +1,6 @@
+{
+    "nuxt.isNuxtApp": false,
+    "marquee.widgets.npm-stats.packageNames": [
+        "docs-luomoe-com"
+    ]
+}
