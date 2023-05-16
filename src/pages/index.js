@@ -2,7 +2,7 @@
  * @Author: onmyoji onmyoji@qq.com
  * @Date: 2023-01-05 23:00:12
  * @LastEditors: onmyoji onmyoji@qq.com
- * @LastEditTime: 2023-03-26 14:49:47
+ * @LastEditTime: 2023-03-26 15:01:46
  * @FilePath: \docsLuomoeCom\src\pages\index.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      KeyWords="胖螺,Java,JavaScript,python,web前端,golang"
+      keywords="胖螺,Java,JavaScript,python,web前端,golang"
       description="胖螺的博客 <head />"
       >
       <HomepageHeader />

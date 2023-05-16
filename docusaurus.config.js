@@ -104,8 +104,10 @@ const config = {
     },
       footer: {
         style: 'dark',
-        copyright: `<p>Copyright © 胖螺 2020-${new Date().getFullYear()} . </p> 
-                    <a href="https://www.nahida.cn/" target="_blank" style="color:#fff">纳西妲 世界第一可爱</a>
+        copyright: `Copyright © 胖螺 2020-${new Date().getFullYear()} . <br>
+                    <a href="https://www.nahida.cn/" target="_blank" style="color:#fff">纳西妲 世界第一可爱</a> <br>
+                  <span style="text-align: center">  本网站由<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank"><img src="https://img.up.cdn.nahida.cn/icon/upyun_logo5.png" width="53px" style="vertical-align: middle; display: inline-block;"></a>提供CDN加速/云存储服务</span>
+
         `
       },
       prism: {
