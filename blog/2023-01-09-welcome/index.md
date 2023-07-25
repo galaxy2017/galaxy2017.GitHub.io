@@ -5,6 +5,9 @@ authors: [PangLuo]
 # tags: [facebook, hello, docusaurus]
 ---
 
+**在重邮实习，第一次到重庆，感受真的不一样**
+感觉还是在学校里舒坦啊~
+
 
 **备案了个新域名，名字居然给过了**
 
