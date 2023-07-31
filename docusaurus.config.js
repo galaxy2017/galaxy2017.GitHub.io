@@ -67,6 +67,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        {
+          name: 'keywords',
+          content: '胖螺,JavaScript,python,tensorflow,nvidia'
+        },
+        {
+          name: 'description',
+          content: '胖螺的博客,目前专注于云计算、边缘计算与人工智能'
+        }
+      ],
       navbar: {
         title: '胖螺',
         logo: {
@@ -98,10 +108,10 @@ const config = {
         ],
       },
       docs: {
-      sidebar: {
-        hideable: true,
+        sidebar: {
+          hideable: true,
+        },
       },
-    },
       footer: {
         style: 'dark',
         copyright: `Copyright © 胖螺 2020-${new Date().getFullYear()} . <br>
