@@ -39,8 +39,8 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      keywords="胖螺,Java,JavaScript,python,web前端,golang"
-      description="胖螺的博客 <head />"
+      keywords="胖螺,JavaScript,python,tensorflow,nvidia"
+      description="胖螺的博客,目前专注于云计算、边缘计算与人工智能"
       >
       <HomepageHeader />
       <main>
