@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_luomoe_com=self.webpackChunkdocs_luomoe_com||[]).push([[337],{9545:o=>{o.exports=JSON.parse('{"label":"RTX3090","permalink":"/blog/tags/rtx-3090","allTagsPath":"/blog/tags","count":1}')}}]);

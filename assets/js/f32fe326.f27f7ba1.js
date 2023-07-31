@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_luomoe_com=self.webpackChunkdocs_luomoe_com||[]).push([[8843],{4634:o=>{o.exports=JSON.parse('{"label":"AI","permalink":"/blog/tags/ai","allTagsPath":"/blog/tags","count":1}')}}]);

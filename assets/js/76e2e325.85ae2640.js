@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_luomoe_com=self.webpackChunkdocs_luomoe_com||[]).push([[2740],{4417:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/rtx-4090","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

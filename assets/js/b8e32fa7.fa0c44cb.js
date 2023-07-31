@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_luomoe_com=self.webpackChunkdocs_luomoe_com||[]).push([[8536],{7984:e=>{e.exports=JSON.parse('{"label":"Vehicles","permalink":"/blog/tags/vehicles","allTagsPath":"/blog/tags","count":3}')}}]);
