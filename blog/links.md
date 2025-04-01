@@ -15,7 +15,7 @@ sidebarDepth: 2
 
 :::info 
 
-（交换友链请点击👉[![img](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png)](mailto:i@lyyousa.com) ）
+（交换友链请点击👉[![img](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png)](mailto:nahida@nahida.cn) ）
 
 本站的名称：胖螺
 
